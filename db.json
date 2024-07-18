@@ -55,6 +55,22 @@
             "prdTyp": "J",
             "rate": "0.00%",
             "state": "7日年化"
+        },
+        {
+            "earnStateCode": "RhtYld",
+            "prdCod": "213009",
+            "prdNam": "宝盈货币测试A类",
+            "prdTyp": "J",
+            "rate": "0.00%",
+            "state": "7日年化"
+        },
+        {
+            "earnStateCode": "RhtYld",
+            "prdCod": "213009",
+            "prdNam": "宝盈货币测试A类",
+            "prdTyp": "J",
+            "rate": "0.00%",
+            "state": "7日年化"
         }
     ],
     "message": "SUCCESS"
