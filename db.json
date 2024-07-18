@@ -6,6 +6,57 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "code": 200,
+    "data": [
+        {
+            "earnStateCode": "def",
+            "prdCod": "18100859",
+            "prdNam": "24日日金",
+            "prdTyp": "L",
+            "rate": "3.66%",
+            "state": "七日年化"
+        },
+        {
+            "earnStateCode": "YLDD01",
+            "prdCod": "213009",
+            "prdNam": "宝盈货币测试A类",
+            "prdTyp": "J",
+            "rate": "0.00%",
+            "state": "日涨幅"
+        },
+        {
+            "earnStateCode": "YLDW01",
+            "prdCod": "213009",
+            "prdNam": "宝盈货币测试A类",
+            "prdTyp": "J",
+            "rate": "--%",
+            "state": "周涨幅"
+        },
+        {
+            "earnStateCode": "YLDM01",
+            "prdCod": "213009",
+            "prdNam": "宝盈货币测试A类",
+            "prdTyp": "J",
+            "rate": "--%",
+            "state": "近1月收益"
+        },
+        {
+            "earnStateCode": "YLDM03",
+            "prdCod": "213009",
+            "prdNam": "宝盈货币测试A类",
+            "prdTyp": "J",
+            "rate": "--%",
+            "state": "近3月收益"
+        },
+        {
+            "earnStateCode": "RhtYld",
+            "prdCod": "213009",
+            "prdNam": "宝盈货币测试A类",
+            "prdTyp": "J",
+            "rate": "0.00%",
+            "state": "7日年化"
+        }
+    ],
+    "message": "SUCCESS"
   }
 }
